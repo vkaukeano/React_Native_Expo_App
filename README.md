@@ -1,3 +1,4 @@
+# REACT NATIVE MOBILE APP
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 I have began creating a template that uses firebase authentication for logging in.
